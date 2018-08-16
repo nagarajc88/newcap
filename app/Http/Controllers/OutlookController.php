@@ -116,6 +116,6 @@ class OutlookController extends Controller
   }
   
   public function test(){
-      
+      return 1;
   }
 }
