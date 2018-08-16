@@ -114,4 +114,8 @@ class OutlookController extends Controller
       'contacts' => $contacts
     ));
   }
+  
+  public function test(){
+      
+  }
 }
